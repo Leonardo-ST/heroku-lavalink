@@ -1,12 +1,12 @@
 server:
-  port: DYNAMICPORT
+  port: 8000
   address: 0.0.0.0
 spring:
   main:
     banner-mode: log
 lavalink:
   server:
-    password: "youshallnotpass"
+    password: "rikkatocandomusica"
     sources:
       youtube: true
       bandcamp: true
